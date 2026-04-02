@@ -18,6 +18,6 @@ jobs:
           SHOW_TITLE: true
           TIME_RANGE: last_30_days
           LANG_COUNT: 6
-          SHOW_TOTAL: true
+          SHOW_TOTAL: false
           SHOW_TIME: false
           STOP_AT_OTHER: true
