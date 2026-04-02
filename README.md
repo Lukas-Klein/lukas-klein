@@ -38,8 +38,6 @@ and improving developer workflows.
 ```txt
 From: 02 March 2026 - To: 01 April 2026
 
-Total Time: 49 hrs 25 mins
-
 Bicep                              ████████▓░░░░░░░░░░░░░░░░   34.12 %
 YAML                               ███▓░░░░░░░░░░░░░░░░░░░░░   14.42 %
 TypeScript                         ███░░░░░░░░░░░░░░░░░░░░░░   12.00 %
