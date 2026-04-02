@@ -31,6 +31,11 @@ and improving developer workflows.
 - Keep learning by building in public
 - Contribute more to open source
 
+## WakaTime
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ## Connect
 
 - GitHub: [@lukas-klein](https://github.com/lukas-klein)
