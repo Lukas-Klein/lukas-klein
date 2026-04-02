@@ -34,6 +34,20 @@ and improving developer workflows.
 ## WakaTime
 
 <!--START_SECTION:waka-->
+
+```txt
+From: 02 March 2026 - To: 01 April 2026
+
+Total Time: 49 hrs 25 mins
+
+Bicep        17 hrs                ████████▓░░░░░░░░░░░░░░░░   34.12 %
+YAML         7 hrs 11 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.42 %
+TypeScript   5 hrs 58 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.00 %
+Python       4 hrs 5 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.20 %
+Bash         3 hrs 6 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.22 %
+Markdown     3 hrs 2 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.12 %
+```
+
 <!--END_SECTION:waka-->
 
 ## Connect
