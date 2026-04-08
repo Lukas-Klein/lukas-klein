@@ -36,7 +36,7 @@ and improving developer workflows.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 March 2026 - To: 05 April 2026
+From: 07 March 2026 - To: 06 April 2026
 
 Bicep                              ███████▒░░░░░░░░░░░░░░░░░   29.10 %
 YAML                               █████▒░░░░░░░░░░░░░░░░░░░   21.55 %
