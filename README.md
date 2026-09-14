@@ -36,12 +36,12 @@ and improving developer workflows.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 August 2026 - To: 11 September 2026
+From: 13 August 2026 - To: 12 September 2026
 
-Go                               ██████████▓░░░░░░░░░░░░░░   42.47 %
-YAML                             ██████▒░░░░░░░░░░░░░░░░░░   25.61 %
-Markdown                         ██████░░░░░░░░░░░░░░░░░░░   24.53 %
-Other                            ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.64 %
+Go                               █████████▓░░░░░░░░░░░░░░░   38.78 %
+YAML                             ███████░░░░░░░░░░░░░░░░░░   27.68 %
+Markdown                         ██████▓░░░░░░░░░░░░░░░░░░   26.81 %
+Other                            ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.82 %
 ```
 
 <!--END_SECTION:waka-->
